@@ -13,9 +13,8 @@ This is my personal portfolio website showcasing my experience in quantitative f
 - **ETLRavenPackScores**: R package for processing RavenPack alternative data
 - **ResearchR**: RAG system for research paper analysis using local LLMs
 - **Credit Card Fraud Detection**: Real-time fraud prediction system (Featured)
-- **EM Dynamic Stock Valuation Model**: MSCI Emerging Markets stock selection model
 - **S&P 500 Volatility Signal**: Systematic volatility trading strategy
-- **Global Equity Stock Selection**: $50B global equity model
+
 
 ## Technologies
 
